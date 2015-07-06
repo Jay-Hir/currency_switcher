@@ -16,10 +16,10 @@ And for all of elements, which are the prices, select a class - "__switcher"
 
 <pre>
 
-<span class="__switcher">212 UAH</span>
-<span class="__switcher">15.4 UAH</span>
-<span class="__switcher">84,5 UAH</span>
-<span class="__switcher">212 UAH</span>
+&lt;span class="__switcher"&gt;212 UAH&lt;/span&gt;
+&lt;span class="__switcher"&gt;15.4 UAH&lt;/span&gt;
+&lt;span class="__switcher"&gt;84,5 UAH&lt;/span&gt;
+&lt;span class="__switcher"&gt;212 UAH&lt;/span&gt;
 
 </pre>
 
@@ -27,7 +27,7 @@ And then you need to initialize the script settings...
 
 <pre>
 
-<script type="text/javascript">
+&lt;script type="text/javascript"&gt;
         var __switcher = new CurrencySwitcher();
         __switcher.init({
             startCurrency: 'UAH',
@@ -54,7 +54,7 @@ And then you need to initialize the script settings...
             ],
             debug: true // for debug
         });
-</script>
+&lt;/script&gt;
 
 </pre>
 

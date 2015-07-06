@@ -1,7 +1,7 @@
-# currency_switcher
+# Currency Switcher
 
 
-If you need a dynamic way to switch currencies, it has one of my 5-minute development with dynamic adjustment///
+If you need a dynamic way to switch currencies, it has one of my 5-minute development with dynamic adjustment...
 
 It's will be easy, look ...
 

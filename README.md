@@ -14,12 +14,18 @@ At the beginning of the site is required to connect these scripts...
 
 And for all of elements, which are the prices, select a class - "__switcher"
 
+<pre>
+
 <span class="__switcher">212 UAH</span>
 <span class="__switcher">15.4 UAH</span>
 <span class="__switcher">84,5 UAH</span>
 <span class="__switcher">212 UAH</span>
 
+</pre>
+
 And then you need to initialize the script settings...
+
+<pre>
 
 <script type="text/javascript">
         var __switcher = new CurrencySwitcher();
@@ -50,5 +56,6 @@ And then you need to initialize the script settings...
         });
 </script>
 
+</pre>
 
 I hope you like my version switcher! Have a nice work =)
